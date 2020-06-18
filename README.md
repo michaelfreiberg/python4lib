@@ -2,7 +2,7 @@
 Python scripts for librarians
 
 ## ExtractGEPRISProjectDescriptions.py
-Extracts description and data from the DFG GEPRIS research project database.
+Extracts descriptions and data from the DFG GEPRIS research project database.
 1. Search with GEPRIS extended search https://gepris.dfg.de/gepris/OCTOPUS?task=showSearchSimple
 2. Save search results as HTML file.
 3. Insert the filename in the open() function.
